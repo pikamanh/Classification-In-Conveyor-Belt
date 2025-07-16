@@ -44,18 +44,18 @@ pip install -r .\requirements.txt
 ```
 Sweep\Servo\Servo.ino
 ```
-![Folder chứa **Servo.ino**](imageForReadme\FolderServo.png)
+![Folder chứa **Servo.ino**](imageForReadme/FolderServo.png)
 #### Bước 2: Thay đổi thời gian quay trái và phải dựa trên 2 biến `delayTime_1` **(Đẩy hình vuông)** và `delayTime_2` **(Đẩy tam giác)**:
-![Thay đổi thời gian](imageForReadme\ChangeTimeServo.png)
+![Thay đổi thời gian](imageForReadme/ChangeTimeServo.png)
 #### Bước 3: Chọn **COM** đúng với cổng cắm USB kết nối với Arduino. Sau đó nhấn **mũi tên Upload**:
 ##### Bước 1:
-![Chọn vào ô này](imageForReadme\UploadServo_1.png)
+![Chọn vào ô này](imageForReadme/UploadServo_1.png)
 ##### Bước 2:
-    ![Chọn vào ô này](imageForReadme\UploadServo_2.png)
+    ![Chọn vào ô này](imageForReadme/UploadServo_2.png)
 ##### Bước 3:
-![Chọn vào ô này](imageForReadme\UploadServo_3.png)
+![Chọn vào ô này](imageForReadme/UploadServo_3.png)
 ##### Bước 4:
-![Chọn vào ô này](imageForReadme\UploadServo_4.png)
+![Chọn vào ô này](imageForReadme/UploadServo_4.png)
     
 ### Cài đặt Camera:
 - Có thể xem trên web của NPH:
@@ -70,9 +70,9 @@ https://www.tapo.com/vn/faq/51/
     - **username:** Tên đăng nhập trong ứng dụng Tapo
     - **ppassword:** Mật khẩu trong ứng dụng Tapo
     - **ip_address:** IP lấy ở phần `thông tin thiết bị` trong ứng dụng Tapo
-![Chỉnh trong phần mềm](imageForReadme\InputApp.png)
+![Chỉnh trong phần mềm](imageForReadme/InputApp.png)
 ## Demo:
-![Demo](VideoForReadme\Demo.gif)
+![Demo](VideoForReadme/Demo.gif)
 
 ## Người thực hiện:
 - [Nguyễn Mạnh Hưng](https://github.com/pikamanh)
