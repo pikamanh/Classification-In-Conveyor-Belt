@@ -58,10 +58,8 @@ Sweep\Servo\Servo.ino
 ![Chọn vào ô này](imageForReadme/UploadServo_4.png)
     
 ### Cài đặt Camera:
-- Có thể xem trên web của NPH:
-```
-https://www.tapo.com/vn/faq/51/
-```
+- Có thể xem trên web của [NPH Tapo](https://www.tapo.com/vn/faq/51/):
+
 - Video hướng dẫn trong drive
 ### Băng chuyền:
 - Video hướng dẫn trong drive
